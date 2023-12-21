@@ -10,6 +10,9 @@ Hence mostly resigned from the company.
 
 ➡️Solution:- improve job satisfaction & increase salaries, give extra allowances, benefits, bonus , periodic leaves ,etc to the employees.
 
+Check Out the Project Link:-
+https://ranjanthakur01-my.sharepoint.com/:u:/g/personal/shivanshu_ranjanthakur01_onmicrosoft_com/ESm8zytkLjZCqRK958TTo_sBX5eP9RcxPkW8uBhoiJN09A?e=AjUxF4
+
 🧩How i built this project:-
 
 1. DATA Collection :-
